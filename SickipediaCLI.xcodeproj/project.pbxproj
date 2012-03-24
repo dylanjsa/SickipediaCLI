@@ -10,6 +10,9 @@
 		5EA5D46F151CB9B7006D7D84 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EA5D46E151CB9B7006D7D84 /* Foundation.framework */; };
 		5EA5D472151CB9B7006D7D84 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EA5D471151CB9B7006D7D84 /* main.m */; };
 		5EA5D476151CB9B7006D7D84 /* SickipediaCLI.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 5EA5D475151CB9B7006D7D84 /* SickipediaCLI.1 */; };
+		5EA5D47D151CBA09006D7D84 /* libncurses.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EA5D47C151CBA09006D7D84 /* libncurses.dylib */; };
+		5EA5D480151CBA76006D7D84 /* Console.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5EA5D47F151CBA76006D7D84 /* Console.mm */; };
+		5EA5D482151CBAE6006D7D84 /* libcurl.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EA5D481151CBAE6006D7D84 /* libcurl.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,8 +32,18 @@
 		5EA5D46A151CB9B7006D7D84 /* SickipediaCLI */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SickipediaCLI; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EA5D46E151CB9B7006D7D84 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5EA5D471151CB9B7006D7D84 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5EA5D474151CB9B7006D7D84 /* SickipediaCLI-Prefix.pch */ = {isa = PBXFileReference; path = "SickipediaCLI-Prefix.pch"; sourceTree = "<group>"; };
+		5EA5D474151CB9B7006D7D84 /* SickipediaCLI-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SickipediaCLI-Prefix.pch"; sourceTree = "<group>"; };
 		5EA5D475151CB9B7006D7D84 /* SickipediaCLI.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = SickipediaCLI.1; sourceTree = "<group>"; };
+		5EA5D47C151CBA09006D7D84 /* libncurses.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libncurses.dylib; path = usr/lib/libncurses.dylib; sourceTree = SDKROOT; };
+		5EA5D47E151CBA76006D7D84 /* Console.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Console.h; sourceTree = "<group>"; };
+		5EA5D47F151CBA76006D7D84 /* Console.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Console.mm; sourceTree = "<group>"; };
+		5EA5D481151CBAE6006D7D84 /* libcurl.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcurl.dylib; path = usr/lib/libcurl.dylib; sourceTree = SDKROOT; };
+		5EA5D487151CE303006D7D84 /* SCUtil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SCUtil.h; sourceTree = "<group>"; };
+		5EA5D498151CF09A006D7D84 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		5EA5D49A151CF0BB006D7D84 /* SMXMLDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SMXMLDocument.h; sourceTree = "<group>"; };
+		5EA5D49B151CF0BB006D7D84 /* SMXMLDocument.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SMXMLDocument.m; sourceTree = "<group>"; };
+		5EA5D49C151CF0BB006D7D84 /* SMXMLDocument+Utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SMXMLDocument+Utils.h"; sourceTree = "<group>"; };
+		5EA5D49D151CF0BB006D7D84 /* SMXMLDocument+Utils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "SMXMLDocument+Utils.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +51,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EA5D482151CBAE6006D7D84 /* libcurl.dylib in Frameworks */,
+				5EA5D47D151CBA09006D7D84 /* libncurses.dylib in Frameworks */,
 				5EA5D46F151CB9B7006D7D84 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -48,6 +63,9 @@
 		5EA5D45F151CB9B5006D7D84 = {
 			isa = PBXGroup;
 			children = (
+				5EA5D498151CF09A006D7D84 /* AppKit.framework */,
+				5EA5D481151CBAE6006D7D84 /* libcurl.dylib */,
+				5EA5D47C151CBA09006D7D84 /* libncurses.dylib */,
 				5EA5D470151CB9B7006D7D84 /* SickipediaCLI */,
 				5EA5D46D151CB9B7006D7D84 /* Frameworks */,
 				5EA5D46B151CB9B7006D7D84 /* Products */,
@@ -73,6 +91,8 @@
 		5EA5D470151CB9B7006D7D84 /* SickipediaCLI */ = {
 			isa = PBXGroup;
 			children = (
+				5EA5D49F151D9BBA006D7D84 /* Console */,
+				5EA5D49E151D9BA7006D7D84 /* 3rdPartyStuff */,
 				5EA5D471151CB9B7006D7D84 /* main.m */,
 				5EA5D475151CB9B7006D7D84 /* SickipediaCLI.1 */,
 				5EA5D473151CB9B7006D7D84 /* Supporting Files */,
@@ -86,6 +106,27 @@
 				5EA5D474151CB9B7006D7D84 /* SickipediaCLI-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5EA5D49E151D9BA7006D7D84 /* 3rdPartyStuff */ = {
+			isa = PBXGroup;
+			children = (
+				5EA5D49A151CF0BB006D7D84 /* SMXMLDocument.h */,
+				5EA5D49B151CF0BB006D7D84 /* SMXMLDocument.m */,
+				5EA5D49C151CF0BB006D7D84 /* SMXMLDocument+Utils.h */,
+				5EA5D49D151CF0BB006D7D84 /* SMXMLDocument+Utils.m */,
+			);
+			name = 3rdPartyStuff;
+			sourceTree = "<group>";
+		};
+		5EA5D49F151D9BBA006D7D84 /* Console */ = {
+			isa = PBXGroup;
+			children = (
+				5EA5D47E151CBA76006D7D84 /* Console.h */,
+				5EA5D47F151CBA76006D7D84 /* Console.mm */,
+				5EA5D487151CE303006D7D84 /* SCUtil.h */,
+			);
+			name = Console;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5EA5D472151CB9B7006D7D84 /* main.m in Sources */,
+				5EA5D480151CBA76006D7D84 /* Console.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -198,6 +240,11 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SickipediaCLI/SickipediaCLI-Prefix.pch";
+				HEADER_SEARCH_PATHS = "";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -207,6 +254,11 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SickipediaCLI/SickipediaCLI-Prefix.pch";
+				HEADER_SEARCH_PATHS = "";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -230,6 +282,7 @@
 				5EA5D47B151CB9B7006D7D84 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

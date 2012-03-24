@@ -12,7 +12,6 @@
 //
 //0. You just DO WHAT THE FUCK YOU WANT TO. 
 //
-
 /* This program is free software. It comes without any warranty, to
  * the extent permitted by applicable law. You can redistribute it
  * and/or modify it under the terms of the Do What The Fuck You Want
@@ -20,13 +19,13 @@
  * http://sam.zoy.org/wtfpl/COPYING for more details. */
 
 #import <Foundation/Foundation.h>
-#import "Console.h"
 
-int main(int argc, const char * argv[])
-{
-    @autoreleasepool 
-    {   
-        [Console new];
-    }
-    return 0;
+@interface Console : NSObject {
+    int pageNumber;
 }
+
+@property (nonatomic, assign) int pageNumber;
+
+- (id) init;
+
+@end

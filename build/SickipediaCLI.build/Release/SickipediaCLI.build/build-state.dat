@@ -1,0 +1,154 @@
+TSickipediaCLI
+v5
+r1
+cCheck dependencies
+cProcessPCH++ /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-gjqspdyjpfvmckbgxxkflzhbgjsn/SickipediaCLI-Prefix.pch.pth SickipediaCLI/SickipediaCLI-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-fuglwssynhxhsvafietupccjtsoo/SickipediaCLI-Prefix.pch.pth SickipediaCLI/SickipediaCLI-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/main.o /Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/Console.o /Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI normal x86_64
+cGenerateDSYMFile /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI.dSYM /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F4B09E300000000000ADFFC
+t1330317795
+s712700
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/lib/libcurl.dylib
+c000000004F4B09E9000000000000C7D0
+t1330317801
+s51152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/lib/libncurses.dylib
+c000000004F4B09E900000000000133E8
+t1330317801
+s78824
+
+N/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm
+c000000004F6CC3B30000000000001499
+t1332528051
+s5273
+
+N/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/SickipediaCLI-Prefix.pch
+c000000004F6C82D800000000000000A6
+t1332511448
+s166
+
+N/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/main.m
+c000000004F6CAB140000000000000135
+t1332521748
+s309
+
+N/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI
+t2
+s0
+
+N/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI.dSYM
+t2
+s0
+
+N/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/Console.o
+t2
+s0
+
+N/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/SickipediaCLI.LinkFileList
+c000000004F6D601E0000000000000109
+t1332568094
+s265
+
+N/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-fuglwssynhxhsvafietupccjtsoo/SickipediaCLI-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-gjqspdyjpfvmckbgxxkflzhbgjsn/SickipediaCLI-Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdcb8719e971db541^c895829e971db541^---0#1#0#--18"Check dependencies36"C8347CF0-36D1-4026-8494-CE0BAFEC028A-
+
+CCompileC build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/Console.o /Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s354260895.664268
+e354260895.788021
+r1
+xCompileC
+xbuild/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/Console.o
+x/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm:142:40: warning: incompatible pointer types initializing 'NSXMLElement *__strong' with an expression of type 'NSXMLNode *' [-Wincompatible-pointer-types]
+o                    NSXMLElement *td = [[[divChild childAtIndex:0] childAtIndex:0] childAtIndex:0];
+o                                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm9431aa9f971db541^91bac99f971db541^-447"/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm:142:40: warning: incompatible pointer types initializing 'NSXMLElement *__strong' with an expression of type 'NSXMLNode *' [-Wincompatible-pointer-types]                    NSXMLElement *td = [[[divChild childAtIndex:0] childAtIndex:0] childAtIndex:0];                                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@105"Incompatible pointer types initializing 'NSXMLElement *__strong' with an expression of type 'NSXMLNode *'-354260895#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@88"file://localhost/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm0000000000000000^141#39#141#39#4436#0#14"Semantic Issue1(3@88"file://localhost/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm0000000000000000^141#39#141#98#4436#58#-0#0#0#-19%DVTDocumentLocation4@88"file://localhost/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm0000000000000000^3171"CompileC build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/Console.o SickipediaCLI/Console.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ash/Documents/iDevelopment/SickipediaCLI    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-generated-files.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-own-target-headers.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-all-target-headers.hmap -iquote /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-project-headers.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/include -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/DerivedSources/x86_64 -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/DerivedSources -F/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release -include /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-gjqspdyjpfvmckbgxxkflzhbgjsn/SickipediaCLI-Prefix.pch -MMD -MT dependencies -MF /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/Console.d --serialize-diagnostics /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/Console.dia -c /Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/Console.mm -o /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/Console.o36"CCB92FF4-6028-4F77-ABE2-A58103146424-
+
+CCompileC build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/main.o /Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354260895.390456
+e354260895.428090
+r1
+xCompileC
+xbuild/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/main.o
+x/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/main.mb81f649f971db541^15a86d9f971db541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/main.m0000000000000000^3021"CompileC build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/main.o SickipediaCLI/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ash/Documents/iDevelopment/SickipediaCLI    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-generated-files.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-own-target-headers.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-all-target-headers.hmap -iquote /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-project-headers.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/include -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/DerivedSources/x86_64 -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/DerivedSources -F/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release -include /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-fuglwssynhxhsvafietupccjtsoo/SickipediaCLI-Prefix.pch -MMD -MT dependencies -MF /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/main.dia -c /Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/main.m -o /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/main.o36"CD28D843-4F60-4898-975D-E7994B830DF3-
+
+CGenerateDSYMFile /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI.dSYM /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI
+s354260895.831418
+e354260895.844022
+r1
+xGenerateDSYMFile
+x/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI.dSYM
+x/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Generating /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI.dSYMb7f0d49f971db541^9414d89f971db541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI.dSYM000000000080d041^357"GenerateDSYMFile build/Release/SickipediaCLI.dSYM build/Release/SickipediaCLI    cd /Users/ash/Documents/iDevelopment/SickipediaCLI    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI -o /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI.dSYM36"58ADDD35-A0F5-4686-A97E-D1EF7718D1F9-
+
+CLd /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI normal x86_64
+s354260895.794790
+e354260895.824770
+r1
+xLd
+x/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Link /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI008ccb9f971db541^d924d39f971db541^---0#0#0#--822"Ld build/Release/SickipediaCLI normal x86_64    cd /Users/ash/Documents/iDevelopment/SickipediaCLI    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release -F/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release -filelist /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/Objects-normal/x86_64/SickipediaCLI.LinkFileList -mmacosx-version-min=10.7 -all_load -ObjC -fobjc-arc -lcurl -lncurses -framework Foundation -o /Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/SickipediaCLI36"5A500B6F-5C31-4FD4-9C89-236DE78C8B2B-
+
+CProcessPCH /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-fuglwssynhxhsvafietupccjtsoo/SickipediaCLI-Prefix.pch.pth SickipediaCLI/SickipediaCLI-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354260894.520094
+e354260895.383492
+r1
+xProcessPCH
+x/var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-fuglwssynhxhsvafietupccjtsoo/SickipediaCLI-Prefix.pch.pth
+xSickipediaCLI/SickipediaCLI-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile SickipediaCLI/SickipediaCLI-Prefix.pch535c859e971db541^6b2b629f971db541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/SickipediaCLI-Prefix.pch0000000000000000^3100"ProcessPCH /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-fuglwssynhxhsvafietupccjtsoo/SickipediaCLI-Prefix.pch.pth SickipediaCLI/SickipediaCLI-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ash/Documents/iDevelopment/SickipediaCLI    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-generated-files.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-own-target-headers.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-all-target-headers.hmap -iquote /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-project-headers.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/include -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/DerivedSources/x86_64 -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/DerivedSources -F/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release --serialize-diagnostics /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-fuglwssynhxhsvafietupccjtsoo/SickipediaCLI-Prefix.pch.dia -c /Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/SickipediaCLI-Prefix.pch -o /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-fuglwssynhxhsvafietupccjtsoo/SickipediaCLI-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-fuglwssynhxhsvafietupccjtsoo/SickipediaCLI-Prefix.pch.d36"6C8F364C-D403-496B-9505-6BD5A7680E1B-
+
+CProcessPCH++ /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-gjqspdyjpfvmckbgxxkflzhbgjsn/SickipediaCLI-Prefix.pch.pth SickipediaCLI/SickipediaCLI-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s354260894.520093
+e354260895.656385
+r1
+xProcessPCH++
+x/var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-gjqspdyjpfvmckbgxxkflzhbgjsn/SickipediaCLI-Prefix.pch.pth
+xSickipediaCLI/SickipediaCLI-Prefix.pch
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile SickipediaCLI/SickipediaCLI-Prefix.pch745c859e971db541^8508a89f971db541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/SickipediaCLI-Prefix.pch0000000000000000^3232"ProcessPCH++ /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-gjqspdyjpfvmckbgxxkflzhbgjsn/SickipediaCLI-Prefix.pch.pth SickipediaCLI/SickipediaCLI-Prefix.pch normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ash/Documents/iDevelopment/SickipediaCLI    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch x86_64 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-generated-files.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-own-target-headers.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-all-target-headers.hmap -iquote /Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/SickipediaCLI-project-headers.hmap -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release/include -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/DerivedSources/x86_64 -I/Users/ash/Documents/iDevelopment/SickipediaCLI/build/SickipediaCLI.build/Release/SickipediaCLI.build/DerivedSources -F/Users/ash/Documents/iDevelopment/SickipediaCLI/build/Release --serialize-diagnostics /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-gjqspdyjpfvmckbgxxkflzhbgjsn/SickipediaCLI-Prefix.pch.dia -c /Users/ash/Documents/iDevelopment/SickipediaCLI/SickipediaCLI/SickipediaCLI-Prefix.pch -o /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-gjqspdyjpfvmckbgxxkflzhbgjsn/SickipediaCLI-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/v3/h_x_vbc11k38p_l8xytv58400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SickipediaCLI-Prefix-gjqspdyjpfvmckbgxxkflzhbgjsn/SickipediaCLI-Prefix.pch.d36"DF2A1CAC-F40C-4CDA-8ADE-6931952E0FAF-
+
