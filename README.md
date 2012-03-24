@@ -10,12 +10,12 @@ Building
 You can build the project and edit the code with XCode - however ncurses doesn't run in the console window on Xcode - you need to do this with Terminal.app.
 You can use the makefile for this.
 
-### Makefile
-- clean : Clean all build output.
-- compile : Build the project.
-- run : Run the built project.
+### Makefile Targets
+- `clean` : Clean all build output.
+- `compile` : Build the project.
+- `run` : Run the built project.
 
 Compile depends on clean, run depends on compile.
-So you can just do a 'make run', to do everything. If there is something you want to add - feel free to do so.
+So you can just do a `make run`, to do everything. If there is something you want to add - feel free to do so.
 
 `Enjoy brobeans`
